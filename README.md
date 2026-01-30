@@ -9,7 +9,7 @@ This project develops an autonomous AI agent for detecting deepfake images and v
 - Real-world applications in media verification, legal evidence authentication, and misinformation combat.
 - Demonstrated effectiveness with a large dataset (190,000+ images) and robust performance metrics.
 
-This is a final-year AI project by Faheem Shahid (233618) and Zahid Ali (233635), supervised by Prof. Hafiz Muhammad Mueez Amin.
+This is a 5th-semester AI project by Faheem Shahid (233618) and Zahid Ali (233635), supervised by Prof. Hafiz Muhammad Mueez Amin.
 
 ## Features
 
@@ -139,6 +139,11 @@ The project emphasizes a Colab-optimized Python pipeline. All code runs in `AI_P
 - **Faheem Shahid** (233618) - Lead Developer
 - **Zahid Ali** (233635) - Co-Developer
 - **Supervisor:** Prof. Hafiz Muhammad Mueez Amin
+
+## Connect with the Team
+
+- Muhammad Faheem (Lead Developer)  
+  [![LinkedIn](https://www.linkedin.com/in/muhammad-faheem-shahid-26558b242)
 
 ## References
 
