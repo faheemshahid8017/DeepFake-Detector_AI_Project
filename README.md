@@ -70,9 +70,7 @@ No additional hardware needed beyond Colab's GPU.
    - View results: Real/Fake label, confidence %, model used.
    - Download PDF report for forensic details.
 
-**Note:** For video demo, see [Project_Video_AI_Deepfake_Detector.mp4](Project_Video_AI_Deepfake_Detector.mp4).
-
-![Demo Video](Project_Video_AI_Deepfake_Detector.mp4)
+**Note:** For video demo, see [Project_Video_AI_Deepfake_Detector.mp4]
 
 ## Model Details
 
