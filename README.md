@@ -143,7 +143,7 @@ The project emphasizes a Colab-optimized Python pipeline. All code runs in `AI_P
 ## Connect with the Team
 
 - Muhammad Faheem (Lead Developer)  
-  [![LinkedIn](https://www.linkedin.com/in/muhammad-faheem-shahid-26558b242)
+  (https://www.linkedin.com/in/muhammad-faheem-shahid-26558b242)
 
 ## References
 
